@@ -11,4 +11,4 @@ pip==23.0.1
 setuptools==65.5.0
 virtualenv==20.21.0
 Werkzeug==2.2.3
-gunicorn
+gunicorn==20.1.0
